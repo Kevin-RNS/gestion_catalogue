@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Fichiers générés par l'application
+rapport.csv
+
+# Éditeurs / OS
+.vscode/
+.idea/
+.DS_Store
