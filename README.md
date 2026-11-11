@@ -321,6 +321,6 @@ lors de la remise au propre :
 
 ## 9. Auteur
 
-Projet académique — **SahelSound Records**.
+Projet — **SahelSound Records**.
 TP Python : manipulation de fichiers JSON, séparation en modules, utilisation de
 pandas pour l'analyse de données.
