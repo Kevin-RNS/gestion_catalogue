@@ -307,17 +307,6 @@ lors de la remise au propre :
 
 ---
 
-## 8. Pistes d'amélioration
-
-- Ajouter la **modification** et la **suppression** d'un artiste ou d'un album.
-- Générer automatiquement le prochain identifiant (`ART-013`, `ART-014`…).
-- Empêcher d'ajouter deux fois le même album pour un artiste.
-- Ajouter des **tests unitaires** avec `pytest`.
-- Remplacer le JSON par **SQLite** si le catalogue devient volumineux.
-- Proposer des graphiques (`matplotlib`) ou une petite interface web (`Flask`).
-- Exporter un vrai CSV unique ou un fichier Excel multi-feuilles.
-
----
 
 ## 9. Auteur
 
