@@ -306,10 +306,3 @@ lors de la remise au propre :
 | 11 | Les erreurs de saisie numérique affichaient un message technique | Fonction `demander_entier()` avec message compréhensible |
 
 ---
-
-
-## 9. Auteur
-
-Projet — **SahelSound Records**.
-TP Python : manipulation de fichiers JSON, séparation en modules, utilisation de
-pandas pour l'analyse de données.
